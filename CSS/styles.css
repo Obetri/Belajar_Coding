@@ -1,0 +1,16 @@
+body{
+    background-color:#22c6ff;  
+    font-family: fantasy; 
+   }
+
+#row {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.colum {
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    margin-right: 14px;
+}
